@@ -1,0 +1,14 @@
+layout_spectrum: 0.991733
+typography_spectrum: 0.8452381
+color:
+  saturation: 0.3978697
+  brandStrength: 0.6553885
+  lightness: 0.6246867
+  brandColors:
+    - '#0B0B0B'
+    - '#FFFFFF'
+    - '#87949C'
+    - '#D9C4BF'
+    - '#BA551F'
+  rhythmicContrast: 0.35401
+name: BookMangos
