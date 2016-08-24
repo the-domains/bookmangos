@@ -1,14 +1,26 @@
-layout_spectrum: 0.991733
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8452381
 color:
   saturation: 0.3978697
   brandStrength: 0.6553885
-  lightness: 0.6246867
+  rhythmicContrast: 0.35401
   brandColors:
     - '#0B0B0B'
     - '#FFFFFF'
     - '#87949C'
     - '#D9C4BF'
     - '#BA551F'
-  rhythmicContrast: 0.35401
+  lightness: 0.6246867
+layout_spectrum: 1
 name: BookMangos
