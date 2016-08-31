@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.8452381
 color:
   saturation: 0.3978697
   brandStrength: 0.6785714
-  lightness: 0.6246867
+  rhythmicContrast: 0.35401
   brandColors:
     - '#4B80CE'
     - '#B49B63'
     - '#D7E7FE'
     - '#3E4325'
     - '#79723B'
-  rhythmicContrast: 0.35401
-typography_spectrum: 0.8452381
-layout_spectrum: 1
+  lightness: 0.6246867
+layout_spectrum: 0.9611529
 name: BookMangos
