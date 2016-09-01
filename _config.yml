@@ -1,26 +1,26 @@
-color:
-  saturation: 0.3978697
-  brandStrength: 0.6785714
-  rhythmicContrast: 0.35401
-  brandColors:
-    - '#4B80CE'
-    - '#B49B63'
-    - '#D7E7FE'
-    - '#3E4325'
-    - '#79723B'
-  lightness: 0.6246867
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.9611529
+color:
+  saturation: 0.3978697
+  brandStrength: 0.7086466
+  lightness: 0.6246867
+  brandColors:
+    - '#F0F2F5'
+    - '#121210'
+    - '#FFA014'
+    - '#446A19'
+    - '#CB5C02'
+  rhythmicContrast: 0.35401
 typography_spectrum: 0.8452381
+layout_spectrum: 0.9611529
 name: BookMangos
